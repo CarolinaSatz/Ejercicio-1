@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\bin\Debug\AppSystemInfoTec_Ruth.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\bin\Debug\AppSystemInfoTec_Ruth.pdb
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\bin\Debug\AppSystemInfoTec_Ruth.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\obj\x86\Debug\AppSystemInfoTec_Ruth.Resources.resources
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\obj\x86\Debug\AppSystemInfoTec_Ruth.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\obj\x86\Debug\AppSystemInfoTec_Ruth.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\obj\x86\Debug\AppSystemInfoTec_Ruth.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Ruth\AppSystemInfoTec_Ruth\obj\x86\Debug\AppSystemInfoTec_Ruth.pdb
